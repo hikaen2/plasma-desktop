@@ -5,6 +5,7 @@ add_subdirectory(kickoff)
 add_subdirectory(trash)
 
 add_subdirectory(taskmanager)
+add_subdirectory(iconresizabletaskmanager)
 add_subdirectory(window-list)
 plasma_install_package(icontasks org.kde.plasma.icontasks)
 add_subdirectory(margins-separator)
